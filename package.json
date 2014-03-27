@@ -1,0 +1,12 @@
+{
+  "name": "trackyourpackage",
+  "version": "0.0.0",
+  "description": "Web service that searches several popular track & trace APIs for your package",
+  "main": "src/app.js",
+  "author": "Kristofer Selbekk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^3.5.1",
+    "logfmt": "^1.1.2"
+  }
+}
